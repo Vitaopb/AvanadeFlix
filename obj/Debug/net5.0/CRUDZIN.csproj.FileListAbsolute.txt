@@ -1,0 +1,16 @@
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\CRUDZIN\obj\Debug\net5.0\CRUDZIN.csproj.AssemblyReference.cache
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\CRUDZIN\obj\Debug\net5.0\CRUDZIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\CRUDZIN\obj\Debug\net5.0\CRUDZIN.AssemblyInfoInputs.cache
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\CRUDZIN\obj\Debug\net5.0\CRUDZIN.AssemblyInfo.cs
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\CRUDZIN\obj\Debug\net5.0\CRUDZIN.csproj.CoreCompileInputs.cache
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\CRUDZIN\bin\Debug\net5.0\CRUDZIN.exe
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\CRUDZIN\bin\Debug\net5.0\CRUDZIN.deps.json
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\CRUDZIN\bin\Debug\net5.0\CRUDZIN.runtimeconfig.json
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\CRUDZIN\bin\Debug\net5.0\CRUDZIN.runtimeconfig.dev.json
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\CRUDZIN\bin\Debug\net5.0\CRUDZIN.dll
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\CRUDZIN\bin\Debug\net5.0\ref\CRUDZIN.dll
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\CRUDZIN\bin\Debug\net5.0\CRUDZIN.pdb
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\CRUDZIN\obj\Debug\net5.0\CRUDZIN.dll
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\CRUDZIN\obj\Debug\net5.0\ref\CRUDZIN.dll
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\CRUDZIN\obj\Debug\net5.0\CRUDZIN.pdb
+C:\Users\vic_g\Documents\Eu Dev\dotnet\Projects\CRUDZIN\obj\Debug\net5.0\CRUDZIN.genruntimeconfig.cache
